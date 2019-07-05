@@ -12,5 +12,5 @@ public @Data class Driver {
 	private String driverLicence;
 	private String drivePhone;
 	private String driverAddress;
-	private Distrito distrito;
+	private District distrito;
 }

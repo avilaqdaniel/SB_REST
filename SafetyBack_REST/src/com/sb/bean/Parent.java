@@ -9,7 +9,7 @@ public @Data class Parent {
 	private String password;
 	private String name;
 	private String phone;
-	private Distrito distrito;
+	private District distrito;
 	private String address;
 
 }
